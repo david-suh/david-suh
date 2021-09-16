@@ -21,10 +21,10 @@
 
 ### Contacts:
 
-[![Gmail](https://img.shields.io/badge/-mail-0D1117?style=for-the-badge&logo=GMAIL)](invesvirt@gmail.com)
+[![Gmail](https://img.shields.io/badge/-mail-0D1117?style=for-the-badge&logo=GMAIL)](mailto:invesvirt@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=Telegram)](https://t.me/dodius)
 [![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram)](https://www.instagram.com/awesome_dodik/)
-[![Phone](https://img.shields.io/badge/-:telephone_receiver:+38068376102-0D1117?style=for-the-badge)](+380683760102)
+![Phone](https://img.shields.io/badge/-&#128222;+38068376102-0D1117?style=for-the-badge)
 
 ### Support:
 Visa 4441114446878454
