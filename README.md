@@ -1,9 +1,9 @@
-## Hi, I'm a frontend developer
+## Hi, I'm a junior frontend developer
 
 ### Bio:
  I am 18 years old. Born and live in Ukraine, Zhytomyr.  
- At the moment I am engaged in self-study, and I hope that I will become a sought-after specialist.  
- I like sweets, so you can help me get them by donating :smile:
+ At the moment I am engaged in self-study, and I hope that I will become a sought-after specialist in a good company, and you can help me to do this.  
+ I am a responsible, sociable, honest, open to criticism person.
 
 ### Skills and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5)
